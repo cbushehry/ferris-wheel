@@ -2,7 +2,7 @@
 freeCodeCamp project
 
 ## 1. Description
-Simple web page that used HTML and CSS to create the Sun, Earth, and Moon.
+Simple web page that used HTML and CSS to a spinning Ferris Wheel that can also change colors.
 
 DEPLOYMENT:
  [DIRECT LINK](https://cbushehry.github.io/css-ferris-wheel/) | [GITHUB REPOSITORY](https://github.com/cbushehry/css-ferris-wheel)
@@ -11,7 +11,7 @@ DEPLOYMENT:
  * Ferris Wheel animation rotates full 360 degrees
  * Smooth color transition from red -> purple -> yellow
 
- ![css-solar-system homepage](assets/images/css-solar-system.jpg)
+ ![css-solar-system homepage](assets/images/css-ferris-wheel.jpg)
 
 ## 3. Tech Stack
  * HTML
