@@ -1,8 +1,7 @@
 # CSS FERRIS WHEEL
-freeCodeCamp project
 
 ## 1. Description
-Simple web page that used HTML and CSS to a spinning Ferris Wheel that can also change colors.
+freeCodeCamp CSS project. Simple web page that used HTML and CSS to a spinning Ferris Wheel that can also change colors.
 
 DEPLOYMENT:
  [DIRECT LINK](https://cbushehry.github.io/ferris-wheel/) | [GITHUB REPOSITORY](https://github.com/cbushehry/ferris-wheel)
