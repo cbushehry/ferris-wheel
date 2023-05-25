@@ -1,4 +1,4 @@
-# CSS FERRIS WHEEL
+#FERRIS WHEEL
 freeCodeCamp project
 
 ## 1. Description
