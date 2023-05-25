@@ -5,13 +5,13 @@ freeCodeCamp CSS project
 Simple web page that used HTML and CSS to a spinning Ferris Wheel that can also change colors.
 
 DEPLOYMENT:
- [DIRECT LINK](https://cbushehry.github.io/css-ferris-wheel/) | [GITHUB REPOSITORY](https://github.com/cbushehry/css-ferris-wheel)
+ [DIRECT LINK](https://cbushehry.github.io/ferris-wheel/) | [GITHUB REPOSITORY](https://github.com/cbushehry/ferris-wheel)
 
 ## 2. Features
  * Ferris Wheel animation rotates full 360 degrees
  * Smooth color transition from red -> purple -> yellow
 
- ![css-solar-system homepage](assets/images/css-ferris-wheel.jpg)
+ ![css-solar-system homepage](assets/images/ferris-wheel.jpg)
 
 ## 3. Tech Stack
  * HTML
