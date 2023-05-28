@@ -10,7 +10,7 @@ DEPLOYMENT:
  * Ferris Wheel animation rotates full 360 degrees
  * Smooth color transition from red -> purple -> yellow
 
- ![solar-system homepage](assets/images/ferris-wheel.jpg)
+ ![ferris wheel image](assets/images/ferris-wheel.jpg)
 
 ## 3. Tech Stack
  * HTML
